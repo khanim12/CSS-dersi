@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+div {
+    width: 300px;
+height: 150px;
+background-color: #833ae0;
+margin: 40px 20px;
+}

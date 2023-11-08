@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Roboto Mono", monospace;
+}
+div {
+  padding: 20px;
+  margin: 20px;
+}
+h1 {
+  padding: 16px 0;
+}
+p {
+  padding: 15px 0;
+  line-height: 30px;
+}
+button {
+  padding: 10px 20px;
+  margin: 0;
+  border: none;
+  border-radius: 5%;
+}
+#btn1 {
+  background-color: #77cc6d;
+}
+#btn2 {
+  background-color: #2ac4ea;
+}
+#btn3 {
+  background-color: #f6653c;
+}

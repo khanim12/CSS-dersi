@@ -1,0 +1,11 @@
+#red
+{
+    border: 2px solid red;
+}
+#green{
+    border: 2px solid green;
+}
+#multi{
+    border-color:   red green yellow blue;
+    border-style: solid;
+}
